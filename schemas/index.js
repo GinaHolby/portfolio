@@ -2,14 +2,16 @@
 
 // schemas/index.js
 
-import ingredient from './ingredient'
-import instruction from './instruction'
-import recipie from './recipie'
+
+import arrayContent from './arrayContent'
+import blockContent from './blockContent'
+import project from './project'
+
 
 export const schemaTypes = [
 
-    recipie,
-    ingredient,
-    instruction
+    project,
+    arrayContent,
+    blockContent
 
 ]
