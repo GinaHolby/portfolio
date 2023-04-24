@@ -18,9 +18,26 @@ export default {
       title: "Project Color 1",
       type: "string",
     },
+    
     {
       name: "figmalink",
       title: "Figma Link",
+      type: "string",
+    },
+    {
+      name: "figmalinkhide",
+      title: "Hide Figma Link write: hide",
+      type: "string",
+    },
+
+    {
+      name: "nettsidelink",
+      title: "Link nettside",
+      type: "string",
+    },
+    {
+      name: "hidenettsidelink",
+      title: " Hide Link nettside write: hide",
       type: "string",
     },
 
@@ -54,16 +71,21 @@ export default {
       name: "problemTitle",
       title: "Problem Title",
       type: "string",
-    },
+    },*/
     {
       name: "problemIntroduction",
       title: "Introduction of the Problem",
       type: "string",
-    }, */
+    }, 
 
     {
       name: "problemDescriptions",
       title: "Description of the Problem",
+      type: "string",
+    },
+    {
+      name: "length",
+      title: "Length",
       type: "string",
     },
     /* {
