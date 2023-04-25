@@ -40,6 +40,16 @@ export default {
       title: " Hide Link nettside write: hide",
       type: "string",
     },
+    {
+      name: "notionlink",
+      title: "Link notion",
+      type: "string",
+    },
+    {
+      name: "hidenotionlink",
+      title: " Hide Link notion write: hide",
+      type: "string",
+    },
 
     {
       name: "slug",
